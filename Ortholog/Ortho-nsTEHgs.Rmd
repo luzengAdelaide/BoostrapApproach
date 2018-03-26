@@ -1,6 +1,6 @@
 ---
 title: "Ortholog genes with nsTE"
-author: "Steve Pederson & Lu Zeng"
+author: "Steve Pederson"
 date: "Feb 2018"
 output: html_document
 ---
